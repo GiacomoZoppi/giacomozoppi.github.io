@@ -30,7 +30,3 @@ My main research areas concern Genetic Programming, the field in which I develop
 [Allievi Honors Program](https://www.carloalberto.org/education/allievi-honors-program/){: .btn--research}
 [Ph.D. in Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl){: .btn--research}
 [EPIcx Lab](https://www.epicx-lab.com/){: .btn--research}
-
-
-
-
