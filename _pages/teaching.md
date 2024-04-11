@@ -6,7 +6,13 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 6
 ---
+# Courses
+- [Data Visualization Lab](https://www.didattica-est.unito.it/do/corsi.pl/Show?_id=fj0y) - Spring 2024, *Laurea magistrale in Metodi statistici ed economici per le decisioni*, University of Torino.
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Tutoring Sessions
+- Probability Theory - Fall 2021, *M.Sc. Stochastics and Data Science*, University of Torino,
+- Probability Theory - Fall 2022, *M.Sc. Stochastics and Data Science*, University of Torino,
+- Probability Theory - Fall 2023, *M.Sc. Stochastics and Data Science*, University of Torino.
 
-Organize your courses by years, topics, or universities, however you like!
+
+
