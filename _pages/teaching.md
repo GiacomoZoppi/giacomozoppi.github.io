@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 # Courses
 - [Data Visualization Lab](https://www.didattica-est.unito.it/do/corsi.pl/Show?_id=fj0y) - Spring 2024, *Laurea magistrale in Metodi statistici ed economici per le decisioni*, University of Torino.
