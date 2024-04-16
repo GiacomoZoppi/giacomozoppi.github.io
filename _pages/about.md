@@ -26,6 +26,8 @@ During my master's degree, I spent a semester at NOVA IMS University of Lisbon, 
 
 Meanwhile, I was part of the Allievi Honors Program at the Collegio Carlo Alberto in Turin for four years, earning a <b>Master in Economics</b>.   
 
+<br>
+
 As of October 2020, I enrolled in the <b>Ph.D. in Modeling and Data Science at the University of Torino</b>. In September 2022, I joined the EPIcx Lab in Paris, France, as a <b>visiting</b> Ph.D. student.  
 
 Most recently, on April 1, 2024, I joined the Department of Economics and Statistics Cognetti de Martiis as a <b>Research Fellow</b>. I am currently working on the project SVeBio, which focuses on statistic estimation and mapping for vegetation biodiversity.
