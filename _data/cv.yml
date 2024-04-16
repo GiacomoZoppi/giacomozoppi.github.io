@@ -28,7 +28,6 @@
       description:
         - B.Sc. in Mathematics for Finance and Insurance, 110/110 cum Laude.
       
-
 - title: Experience
   type: time_table
   contents:
@@ -36,4 +35,4 @@
       institution: University of Torino, Torino, Italy
       year: 2025
       description:
-        - 'Statistics for vegetation biodiversity: estimation and mapping (SVeBio)', Department of Economics and Statistics, Cognetti de Martiis.
+        - Statistics for vegetation biodiversity estimation and mapping (SVeBio), Department of Economics and Statistics, Cognetti de Martiis.
