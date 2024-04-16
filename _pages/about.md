@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <div align="justify">
-After a bachelor's degree in Mathematics for Finance and Insurance at the University of Torino, in 2017, I obtained a master's degree in Stochastics and Data Science at the same university two years later.   
+After a <b>a</b>bachelor's degree in Mathematics for Finance and Insurance at the University of Torino, in 2017, I obtained a master's degree in Stochastics and Data Science at the same university two years later.   
 
 During my master's degree, I spent a semester at NOVA IMS University of Lisbon, in the Master's Degree in Data Science and Advanced Analytics, thanks to the Erasmus+ program.  
 
@@ -30,20 +30,22 @@ As of October 2020, I enrolled in the Ph.D. in Modeling and Data Science at the 
 
 Most recently, on April 1, 2024, I joined the Department of Economics and Statistics Cognetti de Martiis as a research fellow. I am currently working on the project Svebio, which focuses on statistic estimation and mapping for vegetation biodiversity.
 
+<br>
+
 My main research focus lies in applying mathematical methods to solve real-world problems. My master's thesis explored the field of Genetic Programming, while my PhD research centered on modeling epidemiological phenomena in animals. This included investigating the impact of grazing practices and buffalo farms on the spread of cattle diseases.
 
 Currently, I'm applying my expertise to the SVeBio project, which utilizes statistical methods to analyze and map vegetation biodiversity. 
 <div>
 
+<br>
+
 <ul>
-<li><a href='https://www.est-en.unito.it/do/home.pl'>Cognetti de Martiis</a><\li>
+<li><a href='https://www.est-en.unito.it/do/home.pl'>Cognetti de Martiis</a>
  
-<li><a href='https://www.epicx-lab.com/'>EPIcx Lab</a><\li>
+<li><a href='https://www.epicx-lab.com/'>EPIcx Lab</a>
 
-<li><a href='https://dottorato-mds.campusnet.unito.it/do/home.pl'>Ph.D. in Modeling and Data Science</a><\li>
+<li><a href='https://dottorato-mds.campusnet.unito.it/do/home.pl'>Ph.D. in Modeling and Data Science</a>
 
-<li><a href='https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/'>NOVA IMS</a><\li>
+<li><a href='https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/'>NOVA IMS</a>
 
-<li><a href='https://www.carloalberto.org/education/allievi-honors-program/'>Allievi Honors Program</a><\li>
-
-<\ul>
+<li><a href='https://www.carloalberto.org/education/allievi-honors-program/'>Allievi Honors Program</a>
