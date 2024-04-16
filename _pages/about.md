@@ -18,6 +18,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 <div align="justify">
 After a bachelor's degree in Mathematics for Finance and Insurance at the University of Torino, in 2017, I obtained a master's degree in Stochastics and Data Science at the same university two years later.   
 
@@ -33,14 +34,16 @@ My main research focus lies in applying mathematical methods to solve real-world
 
 Currently, I'm applying my expertise to the SVeBio project, which utilizes statistical methods to analyze and map vegetation biodiversity. 
 <div>
+
+<ul>
+<li><a href='https://www.est-en.unito.it/do/home.pl'>Cognetti de Martiis</a><\li>
  
+<li><a href='https://www.epicx-lab.com/'>EPIcx Lab</a><\li>
 
-- [Cognetti de Martiis](https://www.est-en.unito.it/do/home.pl)
+<li><a href='https://dottorato-mds.campusnet.unito.it/do/home.pl'>Ph.D. in Modeling and Data Science</a><\li>
 
-- [EPIcx Lab](https://www.epicx-lab.com/)
+<li><a href='https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/'>NOVA IMS</a><\li>
 
-- [Ph.D. in Modeling and Data Science](https://dottorato-mds.campusnet.unito.it/do/home.pl)
+<li><a href='https://www.carloalberto.org/education/allievi-honors-program/'>Allievi Honors Program</a><\li>
 
-- [NOVA IMS](https://www.novaims.unl.pt/en/education/programs/postgraduate-programs-and-master-degree-programs/master-degree-program-in-data-science-and-advanced-analytics-with-a-specialization-in-data-science/)
-
-- [Allievi Honors Program](https://www.carloalberto.org/education/allievi-honors-program/)
+<\ul>
