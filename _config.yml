@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Giacomo Zoppi # blog_name will be displayed in your blog page
-blog_description: Giacomo Zoppi, Research Fellow
+blog_description: #Research Fellow
 permalink: /blog/:year/:title/
 
 # Pagination
