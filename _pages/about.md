@@ -20,25 +20,23 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p><div style="text-align: justify">
-After a bachelor's degree in Mathematics for Finance and Insurance at the University of Torino, in 2017, I obtained a master's degree in Stochastics and Data Science at the same university two years later. 
+After a <b>bachelor's degree<\b> in Mathematics for Finance and Insurance at the University of Torino, in 2017, I obtained a <b>master's degree<\b> in Stochastics and Data Science at the same university two years later. 
 <br>
-During my master's degree, I spent a semester at NOVA IMS University of Lisbon, in the Master's Degree in Data Science and Advanced Analytics, thanks to the Erasmus+ program.
+During my master's degree, I spent a semester at NOVA IMS University of Lisbon, in the Master's Degree in Data Science and Advanced Analytics, thanks to the <b>Erasmus+ program<\b>.
 <br>
-Meanwhile, I was part of the Allievi Honors Program at the Collegio Carlo Alberto in Turin for four years, earning a Master in Economics. 
+Meanwhile, I was part of the Allievi Honors Program at the Collegio Carlo Alberto in Turin for four years, earning a <b>Master in Economics<\b>. 
 <br> 
-As of October 2020, I enrolled in the Ph.D. in Modeling and Data Science at the University of Torino. In September 2022, I joined the EPIcx Lab as a visiting Ph.D. student. 
+As of October 2020, I enrolled in the <b>Ph.D. in Modeling and Data Science<\b> at the University of Torino. In September 2022, I joined the EPIcx Lab as a visiting Ph.D. student. 
 <br> 
-Most recently, on April 1, 2024, I joined the Department of Economics and Statistics Cognetti de Martiis as a postdoctoral researcher. I am currently working on the project Svebio, which focuses on statistic estimation and mapping for vegetation biodiversity.   </div></p>
+Most recently, on April 1, 2024, I joined the Department of Economics and Statistics Cognetti de Martiis as a <b>research fellow<\b>. I am currently working on the project Svebio, which focuses on statistic estimation and mapping for vegetation biodiversity.   </div></p>
  
  
 <p><div style="text-align: justify">
-My main research focus lies in applying mathematical methods to solve real-world problems. My master's thesis explored the field of Genetic Programming, while my PhD research centered on modeling epidemiological phenomena in animals. This included investigating the impact of grazing practices and buffalo farms on the spread of cattle diseases. </p>
+My <b>main research focus<\b> lies in applying mathematical methods to solve real-world problems. My master's thesis explored the field of Genetic Programming, while my PhD research centered on modeling epidemiological phenomena in animals. This included investigating the impact of grazing practices and buffalo farms on the spread of cattle diseases.
 <br>
-Currently, I'm applying my expertise to the Svebio project, which utilizes statistical methods to analyze and map vegetation biodiversity.
-</div>
+Currently, I'm applying my expertise to the <i>SVeBio<\i> project, which utilizes statistical methods to analyze and map vegetation biodiversity.
+</div></p>
  
-<br>
-
 <br>
 
 - [Cognetti de Martiis](https://www.est-en.unito.it/do/home.pl){: .btn--research}
