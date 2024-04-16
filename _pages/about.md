@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p><div style="text-align: justify">
-After a <b>bachelor's degree<\b> in Mathematics for Finance and Insurance at the University of Torino, in 2017, I obtained a <b>master's degree<\b> in Stochastics and Data Science at the same university two years later. 
+After a **bachelor's degree** in Mathematics for Finance and Insurance at the University of Torino, in 2017, I obtained a **master's degree** in Stochastics and Data Science at the same university two years later. 
 <br>
 During my master's degree, I spent a semester at NOVA IMS University of Lisbon, in the Master's Degree in Data Science and Advanced Analytics, thanks to the <b>Erasmus+ program<\b>.
 <br>
